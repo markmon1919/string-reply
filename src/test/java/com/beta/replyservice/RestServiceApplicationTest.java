@@ -9,6 +9,7 @@ public class RestServiceApplicationTest {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Before all test methods");
 	}
 
 }
